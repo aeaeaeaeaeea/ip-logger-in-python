@@ -14,8 +14,8 @@ exe will be in dist folder
 
 # screenshot
 
-https://i.imgur.com/n7DmgHH.png
+![Screenshot_1](https://user-images.githubusercontent.com/104833655/174494375-28c867b6-055d-4e41-a0c2-be4d810b928a.png)
 
 and it will give an error like this
 
-https://i.imgur.com/I0hJuXW.png
+![Screenshot_2](https://user-images.githubusercontent.com/104833655/174494378-6d7e300a-07f3-456d-b1df-8c7aca549f18.png)
